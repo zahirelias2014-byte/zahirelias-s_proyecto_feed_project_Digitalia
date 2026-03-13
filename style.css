@@ -1,0 +1,59 @@
+*{
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    margin: 0px;
+    background-color: rgb(27, 26, 26);
+}
+main{
+    background-color: rgb(127, 26, 26);
+    text-decoration-color: rgb(27, 26, 26);
+    color: aliceblue;
+    width: 400px;
+    margin: auto;
+    padding: 25px;
+}
+footer{
+    background-color: rgb(27, 26, 26);
+    text-decoration-color: rgb(27, 26, 26) solid ;
+    padding: 10px;
+    color: aliceblue;
+}
+header{
+    background-color: aqua;
+    color: black;
+    padding: 5px;
+}
+div{
+    margin-top: 10px;
+    padding: 10px;
+   border-bottom:1px solid blue ;
+   border-radius: 30px;
+   font-family: Bitcount Prop Double Ink;
+}
+.posteo{
+    background-color: black;
+}
+.anuncio{
+    background-color: rgba(255, 255, 0, 0.608);
+}
+img{
+    width: 100%;
+}
+#foto-perfil{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+#nombre-perfil{
+    border-bottom: 1px solid black;
+    font-family: Bitcount Prop Double Ink;
+    font-weight: bold;
+    font-size: 20px;
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+}
